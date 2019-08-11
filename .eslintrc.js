@@ -1,7 +1,7 @@
 module.exports = {
-  /* env: {
+  env: {
     browser: true
-  }, */
+  },
   extends: ["airbnb-base", "plugin:prettier/recommended"],
   /* globals: {
     Atomics: "readonly",
